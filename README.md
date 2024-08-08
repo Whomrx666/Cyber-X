@@ -48,7 +48,7 @@ $ python3 admin_control.py
 - **last**: The tools will automatically carry out the program according to what you want
 
 # All menu
-| Feature | ✔️ |
+| Features | ✔️ |
 |--------|--------|
 | **Phone Number InformationVulnerability Scanner + Auto Exploit Vulnerability** |✔️ |
 | **Exploit SSRF Otomatis [Support SSL]** |✔️ |
