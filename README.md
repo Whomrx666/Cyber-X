@@ -16,6 +16,7 @@ $ git clone https://github.com/Whomrx666/Cyber-X
 ## Installation for X-pentest
 ```
 $ cd Cyber-X/X-pentest
+$ pip install -r requirements.txt
 $ python3 main.py
 ```
 ## Installation for X-defence
